@@ -33,6 +33,7 @@
     "jasmine-spec-reporter": "2.5.0",
     "karma": "1.2.0",
     "karma-cli": "^1.0.1",
+    "karma-intl-shim": "^1.0.3",
     "karma-jasmine": "^1.0.2",
     "karma-phantomjs-launcher": "1.0.2",
     "karma-remap-istanbul": "^0.2.1",
